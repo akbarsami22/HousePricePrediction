@@ -1,4 +1,3 @@
-
 <body>
 
 <h1>🏠 House Price Prediction</h1>
@@ -29,20 +28,25 @@
 <h3>1. Clone the Repository</h3>
 <pre><code>git clone https://github.com/akbarsami22/HousePricePrediction.git</code></pre>
 
-<h3>2. Activate the Virtual Environment</h3>
+<h3>2. Change Directory</h3>
+<pre><code>cd HousePricePrediction</code></pre>
+
+<h3>3. Activate the Virtual Environment</h3>
 <p>The virtual environment <code>myenv</code> is preconfigured with all the dependencies. To activate it, run the following command based on your operating system:</p>
 
 <ul>
     <li><strong>For Windows:</strong>
         <pre><code>cd myenv/Scripts
-activate</code></pre>
+activate
+cd..
+cd..</code></pre>
     </li>
     <li><strong>For Linux/Mac:</strong>
         <pre><code>source myenv/bin/activate</code></pre>
     </li>
 </ul>
 
-<h3>3. Launch the Jupyter Notebook</h3>
+<h3>4. Launch the Jupyter Notebook</h3>
 <p>Once the environment is activated, you can directly launch the Jupyter Notebook with the following command:</p>
 <pre><code>jupyter notebook HousePricePrediction.ipynb</code></pre>
 
