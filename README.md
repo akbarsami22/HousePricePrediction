@@ -27,7 +27,7 @@
 <p>Follow the steps below to get started with the project. The virtual environment <code>myenv</code> contains all necessary libraries, including Jupyter, so no additional installations are needed.</p>
 
 <h3>1. Clone the Repository</h3>
-<pre><code>git clone https://github.com/your-username/HousePricePrediction.git</code></pre>
+<pre><code>git clone https://github.com/akbarsami22/HousePricePrediction.git</code></pre>
 
 <h3>2. Activate the Virtual Environment</h3>
 <p>The virtual environment <code>myenv</code> is preconfigured with all the dependencies. To activate it, run the following command based on your operating system:</p>
